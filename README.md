@@ -111,22 +111,3 @@ Frontend runs at: **http://localhost:5173**
 | PUT    | /tasks/{id}       | Update task        |
 | DELETE | /tasks/{id}       | Delete task        |
 | GET    | /stats            | Get dashboard stats|
-
----
-
-## 🔮 Possible Enhancements (for interviews)
-
-- Add user authentication (JWT + OAuth)
-- Switch to PostgreSQL for production
-- Add drag-and-drop on Kanban board
-- Deploy backend to Render/Railway, frontend to Vercel
-- Add unit tests (pytest + React Testing Library)
-- WebSocket for real-time updates
-
----
-
-## 💼 Resume Talking Points
-
-- "Built a full stack task manager with **React** and **FastAPI** featuring a Kanban board, project organization, and real-time stats"
-- "Designed a **RESTful API** with SQLAlchemy ORM, full CRUD operations, and automatic docs via OpenAPI/Swagger"
-- "Implemented **global state management** with React Context API and a clean service layer for API abstraction"
